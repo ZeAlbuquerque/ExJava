@@ -3,7 +3,12 @@ public class Teste {
 
 	public static void main(String[] args) {
 	
-		System.out.println(Ex5_DecimalComparator.areEqualByThreeDecimalPlaces(3.176, 3.175));
+	
+		Ex9_MinutesToYearsAndDaysCalculator.printYearsAndDays(525600);
+		Ex9_MinutesToYearsAndDaysCalculator.printYearsAndDays(1051200);
+		Ex9_MinutesToYearsAndDaysCalculator.printYearsAndDays(561600);
+		
+		
 	
 	}
 }
